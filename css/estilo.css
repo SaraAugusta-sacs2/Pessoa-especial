@@ -1,5 +1,5 @@
 body {
-  background-color: rgb(255, 57, 225); /*Pode escolher outra cor se quiser*/
+  background-color: rgb(246, 40, 160); /*Pode escolher outra cor se quiser*/
 }
 
 h1 {
@@ -15,7 +15,7 @@ p {
   position: fixed;
   top: -10px;
   color: yellow;
-  font-size: 10px;
+  font-size: 25px;
   animation: cair 5s linear infinite;
   z-index: -1;
 }
